@@ -1,29 +1,27 @@
 <p align="center">
-  <h1 align="center">OmniFlow AI</h1>
-  <p align="center"><b>Autonomous Multi-Agent Orchestration & Enterprise Automation Engine</b></p>
+  <img src="https://img.shields.io/badge/OmniFlow_AI-Autonomous_Orchestrator-blueviolet?style=for-the-badge&logo=ai" alt="OmniFlow AI">
+</p>
+
+<h1 align="center">OmniFlow AI</h1>
+<p align="center"><b>Autonomous Multi-Agent Orchestration & Enterprise Automation Engine</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/LangChain-AI_Framework-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4o_/_Whisper-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Google_Gemini-Reasoning_Engine-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Perplexity_AI-Web_Intelligence-00A294?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity AI">
+  <img src="https://img.shields.io/badge/Qdrant-Vector_Database-FF4136?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant">
+  <img src="https://img.shields.io/badge/PostgreSQL-Chat_Memory-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OmniFlow_AI-Autonomous_Orchestrator-000000?style=for-the-badge&logo=ai&logoColor=white" alt="OmniFlow AI">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-000000?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/LangChain-AI_Framework-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/OpenAI-GPT--4o_/_Whisper-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Google_Gemini-Reasoning_Engine-000000?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Perplexity_AI-Web_Intelligence-000000?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity AI">
-  <img src="https://img.shields.io/badge/Qdrant-Vector_Database-000000?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant">
-  <img src="https://img.shields.io/badge/PostgreSQL-Chat_Memory-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gmail-Email_Automation-000000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  <img src="https://img.shields.io/badge/Google_Drive-Cloud_Storage-000000?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive">
-  <img src="https://img.shields.io/badge/Google_Calendar-Scheduling-000000?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar">
-  <img src="https://img.shields.io/badge/Google_Sheets-Data_Management-000000?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
-  <img src="https://img.shields.io/badge/Google_Docs-Documentation-000000?style=flat-square&logo=googledocs&logoColor=white" alt="Google Docs">
-  <img src="https://img.shields.io/badge/Google_Slides-Presentations-000000?style=flat-square&logo=googleslides&logoColor=white" alt="Google Slides">
+  <img src="https://img.shields.io/badge/Gmail-Email_Automation-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Google_Drive-Cloud_Storage-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive">
+  <img src="https://img.shields.io/badge/Google_Calendar-Scheduling-4285F4?style=flat-square&logo=googlecalendar&logoColor=white" alt="Google Calendar">
+  <img src="https://img.shields.io/badge/Google_Sheets-Data_Management-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
+  <img src="https://img.shields.io/badge/Google_Docs-Documentation-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Google Docs">
+  <img src="https://img.shields.io/badge/Google_Slides-Presentations-FBBC04?style=flat-square&logo=googleslides&logoColor=white" alt="Google Slides">
 </p>
 
 ---
@@ -32,13 +30,11 @@
 
 **OmniFlow AI** is a professional-grade, autonomous multi-agent system designed for enterprise-level automation. Engineered using the **n8n** framework, it implements a highly-scalable "OpenClaw" orchestration pattern that consolidates fragmented business tools into a single, intelligent interface.
 
-The system acts as an **Autonomous Executive**, capable of interpreting multi-modal inputs (Voice, Text, Vision) and executing complex, cross-platform workflows. By sitting at the intersection of LLM reasoning and professional toolsets, OmniFlow AI automates the "thinking" as well as the "doing," making it a powerful asset for modern AI-driven operations.
+The system acts as an **Autonomous Executive**, interpretating multi-modal inputs (Voice, Text, Vision) and executing complex, cross-platform workflows. By sitting at the intersection of LLM reasoning and professional toolsets, OmniFlow AI automates the "thinking" as well as the "doing," making it a powerful asset for modern AI-driven operations.
 
 ---
 
 ## 🏗️ Technical Architecture
-
-The following diagram illustrates the high-level architecture of the OmniFlow AI system, featuring a black-and-white professional theme.
 
 ```mermaid
 graph TD
@@ -48,28 +44,28 @@ graph TD
     classDef container fill:#f5f5f5,stroke:#000,stroke-dasharray: 5 5
 
     %% Entry Points
-    User((<b>User</b>)) -- "Multi-modal Input" --> Gateway[<b>Telegram Gateway</b>]
+    User((User)) -- "Multi-modal Input" --> Gateway[Telegram Gateway]
     
-    subgraph "Preprocessing & Validation"
-        Gateway --> Auth{<b>Security Check</b>}
-        Auth -- "Authorized" --> Logic[<b>Input Normalization</b>]
-        Logic --> Transcribe[<b>Whisper (Voice)</b>]
-        Logic --> Vision[<b>GPT-4o (Vision)</b>]
+    subgraph "Preprocessing & Security"
+        Gateway --> Auth{Security Check}
+        Auth -- Authorized --> Logic[Input Normalization]
+        Logic --> Transcribe[Whisper Voice Transcription]
+        Logic --> Vision[GPT-4o Vision OCR]
     end
 
     %% Core Orchestration
     subgraph "Agentic Core"
-        Transcribe --> Orchestrator["<b>🧠 OmniFlow Orchestrator</b><br/>Autonomous Planner"]
+        Transcribe --> Orchestrator[OmniFlow Orchestrator Agent]
         Vision --> Orchestrator
-        Orchestrator <--> Memory[(<b>Persistent Memory</b><br/>PostgreSQL)]
+        Orchestrator <--> Memory[(PostgreSQL Persistent History)]
     end
 
     %% Specialized Toolsets
-    subgraph "Execution Layer (Pipelines)"
-        Orchestrator --> GSuite["<b>G-Suite Pipeline</b><br/>Gmail, Drive, Sheets, Docs"]
-        Orchestrator --> Intelligence["<b>Research Pipeline</b><br/>Perplexity, ScrapeGraph"]
-        Orchestrator --> Knowledge["<b>Knowledge Pipeline</b><br/>Qdrant (RAG), Cohere"]
-        Orchestrator --> Creative["<b>Media Pipeline</b><br/>Grok Image/Video"]
+    subgraph "Execution Layer"
+        Orchestrator --> GSuite[G-Suite Pipeline - Gmail Drive Sheets]
+        Orchestrator --> Intelligence[Research Pipeline - Perplexity ScrapeGraph]
+        Orchestrator --> Knowledge[Knowledge Pipeline - Qdrant RAG]
+        Orchestrator --> Creative[Media Pipeline - Grok Image Video]
     end
 
     %% Feedback Loop
@@ -79,7 +75,7 @@ graph TD
     Creative --> Orchestrator
 
     %% Output
-    Orchestrator --> Response[<b>Final Synthesis</b>]
+    Orchestrator --> Response[Final Synthesis]
     Response --> User
 
     %% Apply Styles
@@ -122,7 +118,7 @@ The OmniFlow AI architecture is built around several "High-Throughput Pipelines"
 | **Frameworks** | n8n, LangChain |
 | **Intelligence** | GPT-4o, Gemini 1.5 Pro, Whisper, Cohere |
 | **Databases** | PostgreSQL (History), Qdrant (Vector) |
-| **Integrations** | Gmail, Drive, Calendar, Sheets, Docs, Slides, Telegram |
+| **Integrations** | Gmail, Google Drive, Calendar, Google Sheets (Excel), Google Docs, Google Slides |
 | **Research** | Perplexity AI, ScrapeGraph AI |
 | **Media** | Grok (xAI) |
 
