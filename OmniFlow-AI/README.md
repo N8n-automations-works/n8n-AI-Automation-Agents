@@ -1,9 +1,9 @@
+<h1 align="center">OmniFlow AI</h1>
+<p align="center"><b>Autonomous Multi-Agent Orchestration & Enterprise Automation Engine</b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/OmniFlow_AI-Autonomous_Orchestrator-blueviolet?style=for-the-badge&logo=ai" alt="OmniFlow AI">
 </p>
-
-<h1 align="center">OmniFlow AI</h1>
-<p align="center"><b>Autonomous Multi-Agent Orchestration & Enterprise Automation Engine</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow_Automation-FF6C37?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
